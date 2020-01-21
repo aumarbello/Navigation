@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="title_products">Products</string>
+    <string name="label_product">Open Product</string>
+</resources>
